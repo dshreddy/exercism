@@ -1,0 +1,49 @@
+.exercism/
+
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Log and temporary files
+*.log
+/target/
+/build/
+/bin/
+*.tmp
+*.bak
+*.swp
+
+# IntelliJ IDEA files
+.idea/
+# The following file is maintained by IntelliJ and should be committed if present
+!.idea/.gitignore
+*.iml
+*.ipr
+*.iws
+/out/
+
+# Maven
+# Use `target` for the default Maven output directory
+target/
+
+# Gradle
+# Use `build` and `.gradle` for the default Gradle output/cache directories
+.gradle/
+build/
+
+# Eclipse
+# If you also use Eclipse, include these
+.classpath
+.project
+.settings/
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
