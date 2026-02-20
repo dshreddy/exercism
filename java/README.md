@@ -24,37 +24,39 @@ This repository contains the concepts, problems and solutions from the [Exercism
 
 # Exercism Java Track – Concept Tree
 
-[Basics](./concepts/basics.md)
-├── Data Structures
-│   ├── [Numbers](./concepts/numbers.md)
-│   ├── [Chars](./concepts/chars.md)
-│   ├── [Strings](./concepts/strings.md)
-│   ├── [Nullability](./concepts/nullability.md)
-│   ├── [Booleans](./concepts/booleans.md)
-│   ├── [Arrays](./concepts/arrays.md)
-│   ├── [Lists](./concepts/lists.md)
-│   ├── [Sets](./concepts/sets.md)
-│   ├── [Maps](./concepts/maps.md)
-├── Conditional Statements
-│   ├── [If-Else Statements](./concepts/if-else.md)
-│   ├── [Switch Statements](./concepts/switch-statement.md)
-│   ├── [Ternary Operators](./concepts/ternery-operator.md)
-├── Loop Statements
-│   │── [For Loops](./concepts/for-loops.md)
-│   ├── [For-Each Loops](./concepts/for-each-loops.md)
-├── OOP
-│   ├── [Classes](./concepts/classes.md)
-│       ├── [Constructors](./concepts/constructors.md)
-│       ├── [Inheritance](./concepts/inheritance.md)
-│   ├── [Interfaces](./concepts/interfaces.md)
-│   ├── [Enums](./concepts/enums.md)
-│   ├── [Generic Types](./concepts/generic-types.md)
-│   ├── [Method Overloading](./concepts/method-overloading.md)
-├── Miscellaneous
-│   ├── [Bit Manipulation](./concepts/bit-manipulation.md)
-│   ├── [Exceptions](./concepts/exceptions.md)
-│   ├── [Randomness](./concepts/randomness.md)
-│   ├── [Date-Time](./concepts/date-time.md)
+
+[Basics](./concepts/basics.md) <br>
+├── Data Structures <br>
+│   ├── [Numbers](./concepts/numbers.md) <br>
+│   ├── [Strings](./concepts/strings.md) <br>
+│   ├── [Chars](./concepts/chars.md) <br>
+│   ├── [Nullability](./concepts/nullability.md) <br>
+│   ├── [Booleans](./concepts/booleans.md) <br>
+│   ├── [Arrays](./concepts/arrays.md) <br>
+│   ├── [Lists](./concepts/lists.md) <br>
+│   ├── [Sets](./concepts/sets.md) <br>
+│   ├── [Maps](./concepts/maps.md) <br>
+├── Conditional Statements <br>
+│   ├── [If-Else Statements](./concepts/if-else.md) <br>
+│   ├── [Switch Statements](./concepts/switch-statement.md) <br>
+│   ├── [Ternary Operators](./concepts/ternery-operator.md) <br>
+├── Loop Statements <br>
+│   │── [For Loops](./concepts/for-loops.md) <br>
+│   ├── [For-Each Loops](./concepts/for-each-loops.md) <br>
+├── OOP <br>
+│   ├── [Classes](./concepts/classes.md) <br>
+│       ├── [Constructors](./concepts/constructors.md) <br>
+│       ├── [Inheritance](./concepts/inheritance.md) <br>
+│   ├── [Interfaces](./concepts/interfaces.md) <br>
+│   ├── [Enums](./concepts/enums.md) <br>
+│   ├── [Generic Types](./concepts/generic-types.md) <br>
+│   ├── [Method Overloading](./concepts/method-overloading.md) <br>
+├── Miscellaneous <br>
+│   ├── [Bit Manipulation](./concepts/bit-manipulation.md) <br>
+│   ├── [Exceptions](./concepts/exceptions.md) <br>
+│   ├── [Randomness](./concepts/randomness.md) <br>
+│   ├── [Date-Time](./concepts/date-time.md) <br>
+
 
 ## Recommended learning resources
 
