@@ -20,43 +20,39 @@ From laptops to data centers, game consoles to scientific supercomputers, cell p
 
 This repository contains the concepts, problems and solutions from the [Exercism Java Track](https://exercism.org/tracks/java)
 
-## Concepts 
-
 # Exercism Java Track – Concept Tree
 
-
-[Basics](./concepts/basics.md) <br>
-├── Data Structures <br>
-│   ├── [Numbers](./concepts/numbers.md) <br>
-│   ├── [Strings](./concepts/strings.md) <br>
-│   ├── [Chars](./concepts/chars.md) <br>
-│   ├── [Nullability](./concepts/nullability.md) <br>
-│   ├── [Booleans](./concepts/booleans.md) <br>
-│   ├── [Arrays](./concepts/arrays.md) <br>
-│   ├── [Lists](./concepts/lists.md) <br>
-│   ├── [Sets](./concepts/sets.md) <br>
-│   ├── [Maps](./concepts/maps.md) <br>
-├── Conditional Statements <br>
-│   ├── [If-Else Statements](./concepts/if-else.md) <br>
-│   ├── [Switch Statements](./concepts/switch-statement.md) <br>
-│   ├── [Ternary Operators](./concepts/ternery-operator.md) <br>
-├── Loop Statements <br>
-│   │── [For Loops](./concepts/for-loops.md) <br>
-│   ├── [For-Each Loops](./concepts/for-each-loops.md) <br>
-├── OOP <br>
-│   ├── [Classes](./concepts/classes.md) <br>
-│       ├── [Constructors](./concepts/constructors.md) <br>
-│       ├── [Inheritance](./concepts/inheritance.md) <br>
-│   ├── [Interfaces](./concepts/interfaces.md) <br>
-│   ├── [Enums](./concepts/enums.md) <br>
-│   ├── [Generic Types](./concepts/generic-types.md) <br>
-│   ├── [Method Overloading](./concepts/method-overloading.md) <br>
-├── Miscellaneous <br>
-│   ├── [Bit Manipulation](./concepts/bit-manipulation.md) <br>
-│   ├── [Exceptions](./concepts/exceptions.md) <br>
-│   ├── [Randomness](./concepts/randomness.md) <br>
-│   ├── [Date-Time](./concepts/date-time.md) <br>
-
+- [Basics](./concepts/basics/about.md)
+- DS
+    - [Numbers](./concepts/numbers/about.md)
+    - [Strings](./concepts/strings/about.md)
+    - [Chars](./concepts/chars/about.md)
+    - [Nullability](./concepts/nullability/about.md)
+    - [Booleans](./concepts/booleans/about.md)
+    - [Arrays](./concepts/arrays/about.md)
+    - [Lists](./concepts/lists/about.md)
+    - [Sets](./concepts/sets/about.md)
+    - [Maps](./concepts/maps/about.md)
+- Conditional Statements
+    - [If/else statements](./concepts/if-else-statements/about.md)
+    - [Switch statement](./concepts/switch-statement/about.md)
+    - [Ternary operators](./concepts/ternary-operators/about.md)
+- Loop Statements
+    - [For loops](./concepts/for-loops/about.md)
+    - [Foreach loops](./concepts/foreach-loops/about.md)
+- OOP
+    - [Classes](./concepts/classes/about.md)
+    - [Constructors](./concepts/constructors/about.md)
+    - [Inheritance](./concepts/inheritance/about.md)
+    - [Interfaces](./concepts/interfaces/about.md)
+    - [Enums](./concepts/enums/about.md)
+    - [Generic types](./concepts/generic-types/about.md)
+    - [Method overloading](./concepts/method-overloading/about.md)
+- Miscellaneous
+- [Bit Manipulation](./concepts/bit-manipulation/about.md)
+- [Exceptions](./concepts/exceptions/about.md)
+- [Randomness](./concepts/randomness/about.md)
+- [Datetime](./concepts/datetime/about.md)
 
 ## Recommended learning resources
 
