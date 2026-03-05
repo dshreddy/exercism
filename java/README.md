@@ -49,10 +49,10 @@ This repository contains the concepts, problems and solutions from the [Exercism
     - [Generic types](./concepts/generic-types/about.md)
     - [Method overloading](./concepts/method-overloading/about.md)
 - Miscellaneous
-- [Bit Manipulation](./concepts/bit-manipulation/about.md)
-- [Exceptions](./concepts/exceptions/about.md)
-- [Randomness](./concepts/randomness/about.md)
-- [Datetime](./concepts/datetime/about.md)
+    - [Bit Manipulation](./concepts/bit-manipulation/about.md)
+    - [Exceptions](./concepts/exceptions/about.md)
+    - [Randomness](./concepts/randomness/about.md)
+    - [Datetime](./concepts/datetime/about.md)
 
 ## Recommended learning resources
 
